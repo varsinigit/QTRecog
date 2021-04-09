@@ -1,0 +1,7 @@
+20:36:58.560 [main] INFO  resources.Base - Successfully login into application
+20:37:06.137 [main] INFO  resources.Base - Successfully enterted UserName and Password
+20:45:46.156 [main] ERROR resources.Base - Wrong Password
+20:45:50.471 [main] INFO  resources.Base - Successfully login into application
+20:45:51.745 [main] INFO  resources.Base - Successfully enterted UserName and Password
+20:45:56.245 [main] INFO  resources.Base - Successfully login into application
+20:46:03.866 [main] INFO  resources.Base - Successfully enterted UserName and Password

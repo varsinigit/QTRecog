@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Login">
+  <classes>
+  <class name="Login.Login"/>
+  <class name="Login.Colorcode"/>
+  </classes>
+   </test>
+   
+     <test name="SendKudos">
+  <classes>
+  <class name="SendKudos.Multiplekudos"/>
+  <class name="SendKudos.SelectKudos"/>
+  </classes>
+    </test>
+     <test name="Others">
+  <classes>
+  <class name="Others.KudosFromMe"/>
+  <class name="Others.KudoToMe"/>
+   <class name="Others.kudosOurSelf"/>
+ 	<class name="Others.CountKudos"/>
+  </classes>
+    </test>
+      <test name="SearchKudos">
+  <classes>
+  <class name="SearchKudos.KudosSearch"/>
+  </classes>
+    </test>
+    
+    <test name="RecentContact">
+  <classes>
+  <class name="SendRecentContact.RecentContacts"/>
+  </classes>
+    </test>
+
+ 
+</suite> <!-- Suite -->

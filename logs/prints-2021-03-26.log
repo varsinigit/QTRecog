@@ -1,0 +1,7 @@
+10:05:11.633 [main] INFO  resources.Base - Successfully login into application
+10:05:15.823 [main] INFO  resources.Base - Successfully enterted UserName and Password
+10:06:14.214 [main] INFO  resources.Base - Sender Name is Valid
+10:06:14.214 [main] INFO  resources.Base - Sender sents kudos to other empl
+10:06:41.573 [main] INFO  resources.Base - Sender Name is Valid
+10:06:41.574 [main] INFO  resources.Base - Sender is correct
+10:06:41.574 [main] INFO  resources.Base - Sender sents kudos to himself

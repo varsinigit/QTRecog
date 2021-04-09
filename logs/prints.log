@@ -1,0 +1,4 @@
+10:07:29.193 [main] INFO  resources.Base - User able to view list of kudos sent from him to other employess and kudos recieved from other users
+10:36:55.040 [main] INFO  resources.Base - Sender Name is Valid
+10:36:55.044 [main] INFO  resources.Base - Sender is correct
+10:36:55.044 [main] INFO  resources.Base - sender received an kudos from other employee
